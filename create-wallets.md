@@ -23,7 +23,7 @@ bitcoin-cli listwalletdir
 
 Ja izvadē parādās šāds uzraksts, tas nozīmē kad mapē wallets nav neviena maka.
 
-Lai izveidotu jaunu maku.
+<kbd>Lai izveidotu jaunu maku.</kbd>
 
 {% code title="Input" %}
 ```bash
@@ -31,7 +31,7 @@ bitcoin-cli createwallet "test_walet_1"
 ```
 {% endcode %}
 
-Dubultajās pēdiņās ir maka nosaukums, kuru var brīvi izvēlēties.
+#### Dubultajās pēdiņās ir maka nosaukums, kuru var brīvi izvēlēties.
 
 {% code title="output" %}
 ```bash
