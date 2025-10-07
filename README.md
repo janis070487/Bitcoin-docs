@@ -23,7 +23,7 @@ bitcoin-cli getblockchaininfo
 {% endcode %}
 
 {% code title="Output" %}
-```bash
+```json
 {
   "chain": "main",
   "blocks": 917942,
